@@ -18,7 +18,7 @@ _Avery's also grows different crops in different seasons. They'd like to display
 _Using React and all other tools we've covered so far, create a website that depicts this information. Take time to construct your entire environment from scratch. It's important to practice these fundamentals before we increase the complexity of our projects later in this course section._
 _Try using local state to toggle between different days. Note that we can use conditional rendering for as many conditions as we want — including all seven days of the week_
 
-![alt text] (https://github.com/liliiakryvelova/Farmers_Market_React/blob/main/src/img/screen_img.png)
+![alt text](https://github.com/liliiakryvelova/Farmers_Market_React/blob/main/src/img/screen_img.png)
 
 ## Setup/Installation Requirements
 
